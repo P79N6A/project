@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.yunxiao.base.yunxiaospringbootstarter.config.RestTemplateConfig,\
+com.yunxiao.base.yunxiaospringbootstarter.config.BeanInitConfig,\
+com.yunxiao.base.yunxiaospringbootstarter.config.CASLoginAutoConfiguration
